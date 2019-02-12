@@ -1,0 +1,1353 @@
+[
+    {
+        "beer_servings": 0,
+        "country": "afghanistan",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 89,
+        "country": "albania",
+        "spirit_servings": 132,
+        "total_litres_of_pure_alcohol": 4.9,
+        "wine_servings": 54
+    },
+    {
+        "beer_servings": 25,
+        "country": "algeria",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.7,
+        "wine_servings": 14
+    },
+    {
+        "beer_servings": 245,
+        "country": "andorra",
+        "spirit_servings": 138,
+        "total_litres_of_pure_alcohol": 12.4,
+        "wine_servings": 312
+    },
+    {
+        "beer_servings": 217,
+        "country": "angola",
+        "spirit_servings": 57,
+        "total_litres_of_pure_alcohol": 5.9,
+        "wine_servings": 45
+    },
+    {
+        "beer_servings": 102,
+        "country": "antigua & barbuda",
+        "spirit_servings": 128,
+        "total_litres_of_pure_alcohol": 4.9,
+        "wine_servings": 45
+    },
+    {
+        "beer_servings": 193,
+        "country": "argentina",
+        "spirit_servings": 25,
+        "total_litres_of_pure_alcohol": 8.3,
+        "wine_servings": 221
+    },
+    {
+        "beer_servings": 21,
+        "country": "armenia",
+        "spirit_servings": 179,
+        "total_litres_of_pure_alcohol": 3.8,
+        "wine_servings": 11
+    },
+    {
+        "beer_servings": 261,
+        "country": "australia",
+        "spirit_servings": 72,
+        "total_litres_of_pure_alcohol": 10.4,
+        "wine_servings": 212
+    },
+    {
+        "beer_servings": 279,
+        "country": "austria",
+        "spirit_servings": 75,
+        "total_litres_of_pure_alcohol": 9.7,
+        "wine_servings": 191
+    },
+    {
+        "beer_servings": 21,
+        "country": "azerbaijan",
+        "spirit_servings": 46,
+        "total_litres_of_pure_alcohol": 1.3,
+        "wine_servings": 5
+    },
+    {
+        "beer_servings": 122,
+        "country": "bahamas",
+        "spirit_servings": 176,
+        "total_litres_of_pure_alcohol": 6.3,
+        "wine_servings": 51
+    },
+    {
+        "beer_servings": 42,
+        "country": "bahrain",
+        "spirit_servings": 63,
+        "total_litres_of_pure_alcohol": 2.0,
+        "wine_servings": 7
+    },
+    {
+        "beer_servings": 0,
+        "country": "bangladesh",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 143,
+        "country": "barbados",
+        "spirit_servings": 173,
+        "total_litres_of_pure_alcohol": 6.3,
+        "wine_servings": 36
+    },
+    {
+        "beer_servings": 142,
+        "country": "belarus",
+        "spirit_servings": 373,
+        "total_litres_of_pure_alcohol": 14.4,
+        "wine_servings": 42
+    },
+    {
+        "beer_servings": 295,
+        "country": "belgium",
+        "spirit_servings": 84,
+        "total_litres_of_pure_alcohol": 10.5,
+        "wine_servings": 212
+    },
+    {
+        "beer_servings": 263,
+        "country": "belize",
+        "spirit_servings": 114,
+        "total_litres_of_pure_alcohol": 6.8,
+        "wine_servings": 8
+    },
+    {
+        "beer_servings": 34,
+        "country": "benin",
+        "spirit_servings": 4,
+        "total_litres_of_pure_alcohol": 1.1,
+        "wine_servings": 13
+    },
+    {
+        "beer_servings": 23,
+        "country": "bhutan",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.4,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 167,
+        "country": "bolivia",
+        "spirit_servings": 41,
+        "total_litres_of_pure_alcohol": 3.8,
+        "wine_servings": 8
+    },
+    {
+        "beer_servings": 76,
+        "country": "bosnia and herzegovina",
+        "spirit_servings": 173,
+        "total_litres_of_pure_alcohol": 4.6,
+        "wine_servings": 8
+    },
+    {
+        "beer_servings": 173,
+        "country": "botswana",
+        "spirit_servings": 35,
+        "total_litres_of_pure_alcohol": 5.4,
+        "wine_servings": 35
+    },
+    {
+        "beer_servings": 245,
+        "country": "brazil",
+        "spirit_servings": 145,
+        "total_litres_of_pure_alcohol": 7.2,
+        "wine_servings": 16
+    },
+    {
+        "beer_servings": 31,
+        "country": "brunei",
+        "spirit_servings": 2,
+        "total_litres_of_pure_alcohol": 0.6,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 231,
+        "country": "bulgaria",
+        "spirit_servings": 252,
+        "total_litres_of_pure_alcohol": 10.3,
+        "wine_servings": 94
+    },
+    {
+        "beer_servings": 25,
+        "country": "burkina faso",
+        "spirit_servings": 7,
+        "total_litres_of_pure_alcohol": 4.3,
+        "wine_servings": 7
+    },
+    {
+        "beer_servings": 88,
+        "country": "burundi",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 6.3,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 37,
+        "country": "ivory coast",
+        "spirit_servings": 1,
+        "total_litres_of_pure_alcohol": 4.0,
+        "wine_servings": 7
+    },
+    {
+        "beer_servings": 144,
+        "country": "cabo verde",
+        "spirit_servings": 56,
+        "total_litres_of_pure_alcohol": 4.0,
+        "wine_servings": 16
+    },
+    {
+        "beer_servings": 57,
+        "country": "cambodia",
+        "spirit_servings": 65,
+        "total_litres_of_pure_alcohol": 2.2,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 147,
+        "country": "cameroon",
+        "spirit_servings": 1,
+        "total_litres_of_pure_alcohol": 5.8,
+        "wine_servings": 4
+    },
+    {
+        "beer_servings": 240,
+        "country": "canada",
+        "spirit_servings": 122,
+        "total_litres_of_pure_alcohol": 8.2,
+        "wine_servings": 100
+    },
+    {
+        "beer_servings": 17,
+        "country": "central african republic",
+        "spirit_servings": 2,
+        "total_litres_of_pure_alcohol": 1.8,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 15,
+        "country": "chad",
+        "spirit_servings": 1,
+        "total_litres_of_pure_alcohol": 0.4,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 130,
+        "country": "chile",
+        "spirit_servings": 124,
+        "total_litres_of_pure_alcohol": 7.6,
+        "wine_servings": 172
+    },
+    {
+        "beer_servings": 79,
+        "country": "china",
+        "spirit_servings": 192,
+        "total_litres_of_pure_alcohol": 5.0,
+        "wine_servings": 8
+    },
+    {
+        "beer_servings": 159,
+        "country": "colombia",
+        "spirit_servings": 76,
+        "total_litres_of_pure_alcohol": 4.2,
+        "wine_servings": 3
+    },
+    {
+        "beer_servings": 1,
+        "country": "comoros",
+        "spirit_servings": 3,
+        "total_litres_of_pure_alcohol": 0.1,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 76,
+        "country": "democratic republic of the congo",
+        "spirit_servings": 1,
+        "total_litres_of_pure_alcohol": 1.7,
+        "wine_servings": 9
+    },
+    {
+        "beer_servings": 0,
+        "country": "cook islands",
+        "spirit_servings": 254,
+        "total_litres_of_pure_alcohol": 5.9,
+        "wine_servings": 74
+    },
+    {
+        "beer_servings": 149,
+        "country": "costa rica",
+        "spirit_servings": 87,
+        "total_litres_of_pure_alcohol": 4.4,
+        "wine_servings": 11
+    },
+    {
+        "beer_servings": 230,
+        "country": "croatia",
+        "spirit_servings": 87,
+        "total_litres_of_pure_alcohol": 10.2,
+        "wine_servings": 254
+    },
+    {
+        "beer_servings": 93,
+        "country": "cuba",
+        "spirit_servings": 137,
+        "total_litres_of_pure_alcohol": 4.2,
+        "wine_servings": 5
+    },
+    {
+        "beer_servings": 192,
+        "country": "cyprus",
+        "spirit_servings": 154,
+        "total_litres_of_pure_alcohol": 8.2,
+        "wine_servings": 113
+    },
+    {
+        "beer_servings": 361,
+        "country": "czech republic",
+        "spirit_servings": 170,
+        "total_litres_of_pure_alcohol": 11.8,
+        "wine_servings": 134
+    },
+    {
+        "beer_servings": 0,
+        "country": "north korea",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 32,
+        "country": "republic of the congo",
+        "spirit_servings": 3,
+        "total_litres_of_pure_alcohol": 2.3,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 224,
+        "country": "denmark",
+        "spirit_servings": 81,
+        "total_litres_of_pure_alcohol": 10.4,
+        "wine_servings": 278
+    },
+    {
+        "beer_servings": 15,
+        "country": "djibouti",
+        "spirit_servings": 44,
+        "total_litres_of_pure_alcohol": 1.1,
+        "wine_servings": 3
+    },
+    {
+        "beer_servings": 52,
+        "country": "dominica",
+        "spirit_servings": 286,
+        "total_litres_of_pure_alcohol": 6.6,
+        "wine_servings": 26
+    },
+    {
+        "beer_servings": 193,
+        "country": "dominican republic",
+        "spirit_servings": 147,
+        "total_litres_of_pure_alcohol": 6.2,
+        "wine_servings": 9
+    },
+    {
+        "beer_servings": 162,
+        "country": "ecuador",
+        "spirit_servings": 74,
+        "total_litres_of_pure_alcohol": 4.2,
+        "wine_servings": 3
+    },
+    {
+        "beer_servings": 6,
+        "country": "egypt",
+        "spirit_servings": 4,
+        "total_litres_of_pure_alcohol": 0.2,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 52,
+        "country": "el salvador",
+        "spirit_servings": 69,
+        "total_litres_of_pure_alcohol": 2.2,
+        "wine_servings": 2
+    },
+    {
+        "beer_servings": 92,
+        "country": "equatorial guinea",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 5.8,
+        "wine_servings": 233
+    },
+    {
+        "beer_servings": 18,
+        "country": "eritrea",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.5,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 224,
+        "country": "estonia",
+        "spirit_servings": 194,
+        "total_litres_of_pure_alcohol": 9.5,
+        "wine_servings": 59
+    },
+    {
+        "beer_servings": 20,
+        "country": "ethiopia",
+        "spirit_servings": 3,
+        "total_litres_of_pure_alcohol": 0.7,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 77,
+        "country": "fiji",
+        "spirit_servings": 35,
+        "total_litres_of_pure_alcohol": 2.0,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 263,
+        "country": "finland",
+        "spirit_servings": 133,
+        "total_litres_of_pure_alcohol": 10.0,
+        "wine_servings": 97
+    },
+    {
+        "beer_servings": 127,
+        "country": "france",
+        "spirit_servings": 151,
+        "total_litres_of_pure_alcohol": 11.8,
+        "wine_servings": 370
+    },
+    {
+        "beer_servings": 347,
+        "country": "gabon",
+        "spirit_servings": 98,
+        "total_litres_of_pure_alcohol": 8.9,
+        "wine_servings": 59
+    },
+    {
+        "beer_servings": 8,
+        "country": "gambia",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 2.4,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 52,
+        "country": "georgia",
+        "spirit_servings": 100,
+        "total_litres_of_pure_alcohol": 5.4,
+        "wine_servings": 149
+    },
+    {
+        "beer_servings": 346,
+        "country": "germany",
+        "spirit_servings": 117,
+        "total_litres_of_pure_alcohol": 11.3,
+        "wine_servings": 175
+    },
+    {
+        "beer_servings": 31,
+        "country": "ghana",
+        "spirit_servings": 3,
+        "total_litres_of_pure_alcohol": 1.8,
+        "wine_servings": 10
+    },
+    {
+        "beer_servings": 133,
+        "country": "greece",
+        "spirit_servings": 112,
+        "total_litres_of_pure_alcohol": 8.3,
+        "wine_servings": 218
+    },
+    {
+        "beer_servings": 199,
+        "country": "grenada",
+        "spirit_servings": 438,
+        "total_litres_of_pure_alcohol": 11.9,
+        "wine_servings": 28
+    },
+    {
+        "beer_servings": 53,
+        "country": "guatemala",
+        "spirit_servings": 69,
+        "total_litres_of_pure_alcohol": 2.2,
+        "wine_servings": 2
+    },
+    {
+        "beer_servings": 9,
+        "country": "guinea",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.2,
+        "wine_servings": 2
+    },
+    {
+        "beer_servings": 28,
+        "country": "guinea-bissau",
+        "spirit_servings": 31,
+        "total_litres_of_pure_alcohol": 2.5,
+        "wine_servings": 21
+    },
+    {
+        "beer_servings": 93,
+        "country": "guyana",
+        "spirit_servings": 302,
+        "total_litres_of_pure_alcohol": 7.1,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 1,
+        "country": "haiti",
+        "spirit_servings": 326,
+        "total_litres_of_pure_alcohol": 5.9,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 69,
+        "country": "honduras",
+        "spirit_servings": 98,
+        "total_litres_of_pure_alcohol": 3.0,
+        "wine_servings": 2
+    },
+    {
+        "beer_servings": 234,
+        "country": "hungary",
+        "spirit_servings": 215,
+        "total_litres_of_pure_alcohol": 11.3,
+        "wine_servings": 185
+    },
+    {
+        "beer_servings": 233,
+        "country": "iceland",
+        "spirit_servings": 61,
+        "total_litres_of_pure_alcohol": 6.6,
+        "wine_servings": 78
+    },
+    {
+        "beer_servings": 9,
+        "country": "india",
+        "spirit_servings": 114,
+        "total_litres_of_pure_alcohol": 2.2,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 5,
+        "country": "indonesia",
+        "spirit_servings": 1,
+        "total_litres_of_pure_alcohol": 0.1,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 0,
+        "country": "iran",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 9,
+        "country": "iraq",
+        "spirit_servings": 3,
+        "total_litres_of_pure_alcohol": 0.2,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 313,
+        "country": "ireland",
+        "spirit_servings": 118,
+        "total_litres_of_pure_alcohol": 11.4,
+        "wine_servings": 165
+    },
+    {
+        "beer_servings": 63,
+        "country": "israel",
+        "spirit_servings": 69,
+        "total_litres_of_pure_alcohol": 2.5,
+        "wine_servings": 9
+    },
+    {
+        "beer_servings": 85,
+        "country": "italy",
+        "spirit_servings": 42,
+        "total_litres_of_pure_alcohol": 6.5,
+        "wine_servings": 237
+    },
+    {
+        "beer_servings": 82,
+        "country": "jamaica",
+        "spirit_servings": 97,
+        "total_litres_of_pure_alcohol": 3.4,
+        "wine_servings": 9
+    },
+    {
+        "beer_servings": 77,
+        "country": "japan",
+        "spirit_servings": 202,
+        "total_litres_of_pure_alcohol": 7.0,
+        "wine_servings": 16
+    },
+    {
+        "beer_servings": 6,
+        "country": "jordan",
+        "spirit_servings": 21,
+        "total_litres_of_pure_alcohol": 0.5,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 124,
+        "country": "kazakhstan",
+        "spirit_servings": 246,
+        "total_litres_of_pure_alcohol": 6.8,
+        "wine_servings": 12
+    },
+    {
+        "beer_servings": 58,
+        "country": "kenya",
+        "spirit_servings": 22,
+        "total_litres_of_pure_alcohol": 1.8,
+        "wine_servings": 2
+    },
+    {
+        "beer_servings": 21,
+        "country": "kiribati",
+        "spirit_servings": 34,
+        "total_litres_of_pure_alcohol": 1.0,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 0,
+        "country": "kuwait",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 31,
+        "country": "kyrgyzstan",
+        "spirit_servings": 97,
+        "total_litres_of_pure_alcohol": 2.4,
+        "wine_servings": 6
+    },
+    {
+        "beer_servings": 62,
+        "country": "laos",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 6.2,
+        "wine_servings": 123
+    },
+    {
+        "beer_servings": 281,
+        "country": "latvia",
+        "spirit_servings": 216,
+        "total_litres_of_pure_alcohol": 10.5,
+        "wine_servings": 62
+    },
+    {
+        "beer_servings": 20,
+        "country": "lebanon",
+        "spirit_servings": 55,
+        "total_litres_of_pure_alcohol": 1.9,
+        "wine_servings": 31
+    },
+    {
+        "beer_servings": 82,
+        "country": "lesotho",
+        "spirit_servings": 29,
+        "total_litres_of_pure_alcohol": 2.8,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 19,
+        "country": "liberia",
+        "spirit_servings": 152,
+        "total_litres_of_pure_alcohol": 3.1,
+        "wine_servings": 2
+    },
+    {
+        "beer_servings": 0,
+        "country": "libya",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 343,
+        "country": "lithuania",
+        "spirit_servings": 244,
+        "total_litres_of_pure_alcohol": 12.9,
+        "wine_servings": 56
+    },
+    {
+        "beer_servings": 236,
+        "country": "luxembourg",
+        "spirit_servings": 133,
+        "total_litres_of_pure_alcohol": 11.4,
+        "wine_servings": 271
+    },
+    {
+        "beer_servings": 26,
+        "country": "madagascar",
+        "spirit_servings": 15,
+        "total_litres_of_pure_alcohol": 0.8,
+        "wine_servings": 4
+    },
+    {
+        "beer_servings": 8,
+        "country": "malawi",
+        "spirit_servings": 11,
+        "total_litres_of_pure_alcohol": 1.5,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 13,
+        "country": "malaysia",
+        "spirit_servings": 4,
+        "total_litres_of_pure_alcohol": 0.3,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 0,
+        "country": "maldives",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 5,
+        "country": "mali",
+        "spirit_servings": 1,
+        "total_litres_of_pure_alcohol": 0.6,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 149,
+        "country": "malta",
+        "spirit_servings": 100,
+        "total_litres_of_pure_alcohol": 6.6,
+        "wine_servings": 120
+    },
+    {
+        "beer_servings": 0,
+        "country": "marshall islands",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 0,
+        "country": "mauritania",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 98,
+        "country": "mauritius",
+        "spirit_servings": 31,
+        "total_litres_of_pure_alcohol": 2.6,
+        "wine_servings": 18
+    },
+    {
+        "beer_servings": 238,
+        "country": "mexico",
+        "spirit_servings": 68,
+        "total_litres_of_pure_alcohol": 5.5,
+        "wine_servings": 5
+    },
+    {
+        "beer_servings": 62,
+        "country": "micronesia",
+        "spirit_servings": 50,
+        "total_litres_of_pure_alcohol": 2.3,
+        "wine_servings": 18
+    },
+    {
+        "beer_servings": 0,
+        "country": "monaco",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 77,
+        "country": "mongolia",
+        "spirit_servings": 189,
+        "total_litres_of_pure_alcohol": 4.9,
+        "wine_servings": 8
+    },
+    {
+        "beer_servings": 31,
+        "country": "montenegro",
+        "spirit_servings": 114,
+        "total_litres_of_pure_alcohol": 4.9,
+        "wine_servings": 128
+    },
+    {
+        "beer_servings": 12,
+        "country": "morocco",
+        "spirit_servings": 6,
+        "total_litres_of_pure_alcohol": 0.5,
+        "wine_servings": 10
+    },
+    {
+        "beer_servings": 47,
+        "country": "mozambique",
+        "spirit_servings": 18,
+        "total_litres_of_pure_alcohol": 1.3,
+        "wine_servings": 5
+    },
+    {
+        "beer_servings": 5,
+        "country": "myanmar",
+        "spirit_servings": 1,
+        "total_litres_of_pure_alcohol": 0.1,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 376,
+        "country": "namibia",
+        "spirit_servings": 3,
+        "total_litres_of_pure_alcohol": 6.8,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 49,
+        "country": "nauru",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 1.0,
+        "wine_servings": 8
+    },
+    {
+        "beer_servings": 5,
+        "country": "nepal",
+        "spirit_servings": 6,
+        "total_litres_of_pure_alcohol": 0.2,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 251,
+        "country": "netherlands",
+        "spirit_servings": 88,
+        "total_litres_of_pure_alcohol": 9.4,
+        "wine_servings": 190
+    },
+    {
+        "beer_servings": 203,
+        "country": "new zealand",
+        "spirit_servings": 79,
+        "total_litres_of_pure_alcohol": 9.3,
+        "wine_servings": 175
+    },
+    {
+        "beer_servings": 78,
+        "country": "nicaragua",
+        "spirit_servings": 118,
+        "total_litres_of_pure_alcohol": 3.5,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 3,
+        "country": "niger",
+        "spirit_servings": 2,
+        "total_litres_of_pure_alcohol": 0.1,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 42,
+        "country": "nigeria",
+        "spirit_servings": 5,
+        "total_litres_of_pure_alcohol": 9.1,
+        "wine_servings": 2
+    },
+    {
+        "beer_servings": 188,
+        "country": "niue",
+        "spirit_servings": 200,
+        "total_litres_of_pure_alcohol": 7.0,
+        "wine_servings": 7
+    },
+    {
+        "beer_servings": 169,
+        "country": "norway",
+        "spirit_servings": 71,
+        "total_litres_of_pure_alcohol": 6.7,
+        "wine_servings": 129
+    },
+    {
+        "beer_servings": 22,
+        "country": "oman",
+        "spirit_servings": 16,
+        "total_litres_of_pure_alcohol": 0.7,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 0,
+        "country": "pakistan",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 306,
+        "country": "palau",
+        "spirit_servings": 63,
+        "total_litres_of_pure_alcohol": 6.9,
+        "wine_servings": 23
+    },
+    {
+        "beer_servings": 285,
+        "country": "panama",
+        "spirit_servings": 104,
+        "total_litres_of_pure_alcohol": 7.2,
+        "wine_servings": 18
+    },
+    {
+        "beer_servings": 44,
+        "country": "papua new guinea",
+        "spirit_servings": 39,
+        "total_litres_of_pure_alcohol": 1.5,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 213,
+        "country": "paraguay",
+        "spirit_servings": 117,
+        "total_litres_of_pure_alcohol": 7.3,
+        "wine_servings": 74
+    },
+    {
+        "beer_servings": 163,
+        "country": "peru",
+        "spirit_servings": 160,
+        "total_litres_of_pure_alcohol": 6.1,
+        "wine_servings": 21
+    },
+    {
+        "beer_servings": 71,
+        "country": "philippines",
+        "spirit_servings": 186,
+        "total_litres_of_pure_alcohol": 4.6,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 343,
+        "country": "poland",
+        "spirit_servings": 215,
+        "total_litres_of_pure_alcohol": 10.9,
+        "wine_servings": 56
+    },
+    {
+        "beer_servings": 194,
+        "country": "portugal",
+        "spirit_servings": 67,
+        "total_litres_of_pure_alcohol": 11.0,
+        "wine_servings": 339
+    },
+    {
+        "beer_servings": 1,
+        "country": "qatar",
+        "spirit_servings": 42,
+        "total_litres_of_pure_alcohol": 0.9,
+        "wine_servings": 7
+    },
+    {
+        "beer_servings": 140,
+        "country": "south korea",
+        "spirit_servings": 16,
+        "total_litres_of_pure_alcohol": 9.8,
+        "wine_servings": 9
+    },
+    {
+        "beer_servings": 109,
+        "country": "moldova",
+        "spirit_servings": 226,
+        "total_litres_of_pure_alcohol": 6.3,
+        "wine_servings": 18
+    },
+    {
+        "beer_servings": 297,
+        "country": "romania",
+        "spirit_servings": 122,
+        "total_litres_of_pure_alcohol": 10.4,
+        "wine_servings": 167
+    },
+    {
+        "beer_servings": 247,
+        "country": "russia",
+        "spirit_servings": 326,
+        "total_litres_of_pure_alcohol": 11.5,
+        "wine_servings": 73
+    },
+    {
+        "beer_servings": 43,
+        "country": "rwanda",
+        "spirit_servings": 2,
+        "total_litres_of_pure_alcohol": 6.8,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 194,
+        "country": "st. kitts & nevis",
+        "spirit_servings": 205,
+        "total_litres_of_pure_alcohol": 7.7,
+        "wine_servings": 32
+    },
+    {
+        "beer_servings": 171,
+        "country": "st. lucia",
+        "spirit_servings": 315,
+        "total_litres_of_pure_alcohol": 10.1,
+        "wine_servings": 71
+    },
+    {
+        "beer_servings": 120,
+        "country": "st. vincent & the grenadines",
+        "spirit_servings": 221,
+        "total_litres_of_pure_alcohol": 6.3,
+        "wine_servings": 11
+    },
+    {
+        "beer_servings": 105,
+        "country": "samoa",
+        "spirit_servings": 18,
+        "total_litres_of_pure_alcohol": 2.6,
+        "wine_servings": 24
+    },
+    {
+        "beer_servings": 0,
+        "country": "san marino",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 56,
+        "country": "sao tome & principe",
+        "spirit_servings": 38,
+        "total_litres_of_pure_alcohol": 4.2,
+        "wine_servings": 140
+    },
+    {
+        "beer_servings": 0,
+        "country": "saudi arabia",
+        "spirit_servings": 5,
+        "total_litres_of_pure_alcohol": 0.1,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 9,
+        "country": "senegal",
+        "spirit_servings": 1,
+        "total_litres_of_pure_alcohol": 0.3,
+        "wine_servings": 7
+    },
+    {
+        "beer_servings": 283,
+        "country": "republic of serbia",
+        "spirit_servings": 131,
+        "total_litres_of_pure_alcohol": 9.6,
+        "wine_servings": 127
+    },
+    {
+        "beer_servings": 157,
+        "country": "seychelles",
+        "spirit_servings": 25,
+        "total_litres_of_pure_alcohol": 4.1,
+        "wine_servings": 51
+    },
+    {
+        "beer_servings": 25,
+        "country": "sierra leone",
+        "spirit_servings": 3,
+        "total_litres_of_pure_alcohol": 6.7,
+        "wine_servings": 2
+    },
+    {
+        "beer_servings": 60,
+        "country": "singapore",
+        "spirit_servings": 12,
+        "total_litres_of_pure_alcohol": 1.5,
+        "wine_servings": 11
+    },
+    {
+        "beer_servings": 196,
+        "country": "slovakia",
+        "spirit_servings": 293,
+        "total_litres_of_pure_alcohol": 11.4,
+        "wine_servings": 116
+    },
+    {
+        "beer_servings": 270,
+        "country": "slovenia",
+        "spirit_servings": 51,
+        "total_litres_of_pure_alcohol": 10.6,
+        "wine_servings": 276
+    },
+    {
+        "beer_servings": 56,
+        "country": "solomon islands",
+        "spirit_servings": 11,
+        "total_litres_of_pure_alcohol": 1.2,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 0,
+        "country": "somalia",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.0,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 225,
+        "country": "south africa",
+        "spirit_servings": 76,
+        "total_litres_of_pure_alcohol": 8.2,
+        "wine_servings": 81
+    },
+    {
+        "beer_servings": 284,
+        "country": "Spain",
+        "spirit_servings": 157,
+        "total_litres_of_pure_alcohol": 10.0,
+        "wine_servings": 112
+    },
+    {
+        "beer_servings": 16,
+        "country": "sri lanka",
+        "spirit_servings": 104,
+        "total_litres_of_pure_alcohol": 2.2,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 8,
+        "country": "sudan",
+        "spirit_servings": 13,
+        "total_litres_of_pure_alcohol": 1.7,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 128,
+        "country": "suriname",
+        "spirit_servings": 178,
+        "total_litres_of_pure_alcohol": 5.6,
+        "wine_servings": 7
+    },
+    {
+        "beer_servings": 90,
+        "country": "swaziland",
+        "spirit_servings": 2,
+        "total_litres_of_pure_alcohol": 4.7,
+        "wine_servings": 2
+    },
+    {
+        "beer_servings": 152,
+        "country": "sweden",
+        "spirit_servings": 60,
+        "total_litres_of_pure_alcohol": 7.2,
+        "wine_servings": 186
+    },
+    {
+        "beer_servings": 185,
+        "country": "switzerland",
+        "spirit_servings": 100,
+        "total_litres_of_pure_alcohol": 10.2,
+        "wine_servings": 280
+    },
+    {
+        "beer_servings": 5,
+        "country": "syria",
+        "spirit_servings": 35,
+        "total_litres_of_pure_alcohol": 1.0,
+        "wine_servings": 16
+    },
+    {
+        "beer_servings": 2,
+        "country": "tajikistan",
+        "spirit_servings": 15,
+        "total_litres_of_pure_alcohol": 0.3,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 99,
+        "country": "thailand",
+        "spirit_servings": 258,
+        "total_litres_of_pure_alcohol": 6.4,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 106,
+        "country": "macedonia",
+        "spirit_servings": 27,
+        "total_litres_of_pure_alcohol": 3.9,
+        "wine_servings": 86
+    },
+    {
+        "beer_servings": 1,
+        "country": "timor-leste",
+        "spirit_servings": 1,
+        "total_litres_of_pure_alcohol": 0.1,
+        "wine_servings": 4
+    },
+    {
+        "beer_servings": 36,
+        "country": "togo",
+        "spirit_servings": 2,
+        "total_litres_of_pure_alcohol": 1.3,
+        "wine_servings": 19
+    },
+    {
+        "beer_servings": 36,
+        "country": "tonga",
+        "spirit_servings": 21,
+        "total_litres_of_pure_alcohol": 1.1,
+        "wine_servings": 5
+    },
+    {
+        "beer_servings": 197,
+        "country": "trinidad & tobago",
+        "spirit_servings": 156,
+        "total_litres_of_pure_alcohol": 6.4,
+        "wine_servings": 7
+    },
+    {
+        "beer_servings": 51,
+        "country": "tunisia",
+        "spirit_servings": 3,
+        "total_litres_of_pure_alcohol": 1.3,
+        "wine_servings": 20
+    },
+    {
+        "beer_servings": 51,
+        "country": "turkey",
+        "spirit_servings": 22,
+        "total_litres_of_pure_alcohol": 1.4,
+        "wine_servings": 7
+    },
+    {
+        "beer_servings": 19,
+        "country": "turkmenistan",
+        "spirit_servings": 71,
+        "total_litres_of_pure_alcohol": 2.2,
+        "wine_servings": 32
+    },
+    {
+        "beer_servings": 6,
+        "country": "tuvalu",
+        "spirit_servings": 41,
+        "total_litres_of_pure_alcohol": 1.0,
+        "wine_servings": 9
+    },
+    {
+        "beer_servings": 45,
+        "country": "uganda",
+        "spirit_servings": 9,
+        "total_litres_of_pure_alcohol": 8.3,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 206,
+        "country": "ukraine",
+        "spirit_servings": 237,
+        "total_litres_of_pure_alcohol": 8.9,
+        "wine_servings": 45
+    },
+    {
+        "beer_servings": 16,
+        "country": "united arab emirates",
+        "spirit_servings": 135,
+        "total_litres_of_pure_alcohol": 2.8,
+        "wine_servings": 5
+    },
+    {
+        "beer_servings": 219,
+        "country": "united kingdom",
+        "spirit_servings": 126,
+        "total_litres_of_pure_alcohol": 10.4,
+        "wine_servings": 195
+    },
+    {
+        "beer_servings": 36,
+        "country": "united republic of tanzania",
+        "spirit_servings": 6,
+        "total_litres_of_pure_alcohol": 5.7,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 249,
+        "country": "united states",
+        "spirit_servings": 158,
+        "total_litres_of_pure_alcohol": 8.7,
+        "wine_servings": 84
+    },
+    {
+        "beer_servings": 115,
+        "country": "uruguay",
+        "spirit_servings": 35,
+        "total_litres_of_pure_alcohol": 6.6,
+        "wine_servings": 220
+    },
+    {
+        "beer_servings": 25,
+        "country": "uzbekistan",
+        "spirit_servings": 101,
+        "total_litres_of_pure_alcohol": 2.4,
+        "wine_servings": 8
+    },
+    {
+        "beer_servings": 21,
+        "country": "vanuatu",
+        "spirit_servings": 18,
+        "total_litres_of_pure_alcohol": 0.9,
+        "wine_servings": 11
+    },
+    {
+        "beer_servings": 333,
+        "country": "venezuela",
+        "spirit_servings": 100,
+        "total_litres_of_pure_alcohol": 7.7,
+        "wine_servings": 3
+    },
+    {
+        "beer_servings": 111,
+        "country": "vietnam",
+        "spirit_servings": 2,
+        "total_litres_of_pure_alcohol": 2.0,
+        "wine_servings": 1
+    },
+    {
+        "beer_servings": 6,
+        "country": "yemen",
+        "spirit_servings": 0,
+        "total_litres_of_pure_alcohol": 0.1,
+        "wine_servings": 0
+    },
+    {
+        "beer_servings": 32,
+        "country": "zambia",
+        "spirit_servings": 19,
+        "total_litres_of_pure_alcohol": 2.5,
+        "wine_servings": 4
+    },
+    {
+        "beer_servings": 64,
+        "country": "zimbabwe",
+        "spirit_servings": 18,
+        "total_litres_of_pure_alcohol": 4.7,
+        "wine_servings": 4
+    }
+]
